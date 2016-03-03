@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake\'s Girls</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_insert">Insert</string>
+    <string name="share">SHARE</string>
+    <string name="title_activity_create">CreateActivity</string>
+</resources>
